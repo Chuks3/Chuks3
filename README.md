@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Chuks3
-- 👀 I’m interested in finding a job 
+- 👋 Hi, I’m @Chuks3, a university student in 200 level studying Computer Science 
+- 👀 I’m interested in finding a minimal job to help me gain experience and connection before I graduate 
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
